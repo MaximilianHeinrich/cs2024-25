@@ -8,6 +8,7 @@ Alle Lösungen zum diesjährigen Schuljahr sind hier zu finden.
 
 ## Themen
 
+- [Einstieg](/einstieg)
 - [Graphen](/Graphen)
 - [KI](/KI)
 - [Kryptographie](/Kryptographie)
