@@ -31,7 +31,7 @@ public class Vertex {
     public void print(boolean showWeight) {
         String message = "";
 
-        if (this.edges.size() == 0) {
+        if (this.edges.isEmpty()) {
             System.out.println(this.data + " -->");
             return;
         }
